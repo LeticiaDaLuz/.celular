@@ -8,7 +8,7 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --laranja: #8b0000;
+    --laranja: #EE82EE;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
@@ -19,7 +19,7 @@
 }
 
 body, html {
-    background: linear-gradient(to bottom, #4B0082 50%,#9370DB 100%);
+    background: linear-gradient(to bottom, #9370DB 50%,#7B68EE 100%);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
