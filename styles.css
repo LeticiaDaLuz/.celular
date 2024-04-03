@@ -19,7 +19,7 @@
 }
 
 body, html {
-    background: linear-gradient(to bottom, #EE82EE 10%,#9370DB 100%);
+    background: linear-gradient(to bottom, #4B0082 50%,#9370DB 100%);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
